@@ -1,4 +1,4 @@
-const encodedAuthCode = "emtmbHNrd2tkZG5qc2R1ZA==";
+const encodedAuthCode = "emtmbHNrZGxhZWt3amQ=";
 
 function toBase64UTF8(str) {
     return btoa(
