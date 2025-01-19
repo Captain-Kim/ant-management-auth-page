@@ -69,11 +69,4 @@ html {
     position: relative;
     overflow: hidden;
     transition: 0.5s;
-    margin: 0 auto;
-}
-
-.login-box button:hover {
-    color: #fff;
-    background: #03e9f4;
-    border-radius: 10px;
 }
